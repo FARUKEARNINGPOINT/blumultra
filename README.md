@@ -1,4 +1,4 @@
-## BLUM BOT
+## BLUM ULTRA
 
 ## BOT FEATURE
 
@@ -13,18 +13,19 @@ pkg install python rust git -y
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/blum.git
+   git clone https://github.com/FARUKEARNINGPOINT/blumultra.git
    ```
    ```bash
-   cd blum
+   cd blumultra
    ```
-3. **ADD ACCOUNTS**
+**ADD ACCOUNTS**
    ```
    nano query_id.txt
    ```
+   
 4.**START THE BOT**
 ```bash
-python blum.py
+python blumultra.py
 ```
 
 **TUTORIAL AVAILABLE ON MY YT**
